@@ -24,5 +24,5 @@
 <img height="50" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/arduino.png"/>
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VichuA2&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VichuA2&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VichuA2&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=007acc)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VichuA2&layout=compact&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=007acc)
