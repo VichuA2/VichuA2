@@ -1,6 +1,6 @@
 ## Hey, I'm Vichu! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-<img align="right" width="470" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBkZDViMnNpOGN3OGk4a3ozMmdocXNxajh5c2tseHZsdHVmaHFpbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
+<img align="right" width="470" height="338" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBkZDViMnNpOGN3OGk4a3ozMmdocXNxajh5c2tseHZsdHVmaHFpbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 
 ### 🙂 About Me 
 - 🧑‍💻 I’m currently learning AI tools
