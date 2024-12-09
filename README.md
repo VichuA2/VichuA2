@@ -3,7 +3,7 @@
 <img align="right" width="425" height="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFndnlkeGN6ZDd1dTU4cHZkeHZ5dHh0YXl2MHJ5a3cydTY0bDhmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
 
 ### 🙂 About Me 
--🧑‍💻 I’m currently learning AI tools for Building My Luna🌙
+- 🧑‍💻 I’m currently learning AI tools for Building My Luna🌙
 - 🤓 III-yr B.Tech Artificial Intelligence and Data Science
 - 👯 I’m looking to collaborate on ML/DL 
 - 🤔 I’m looking for help with Placements 
