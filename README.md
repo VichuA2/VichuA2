@@ -1,6 +1,6 @@
 # Hey, I'm Vishnu! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-<img align="right" width="450" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFndnlkeGN6ZDd1dTU4cHZkeHZ5dHh0YXl2MHJ5a3cydTY0bDhmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
+<img align="right" width="445" height="480" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFndnlkeGN6ZDd1dTU4cHZkeHZ5dHh0YXl2MHJ5a3cydTY0bDhmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
 
 ### 🙂 About Me 
 #### - 🧑‍💻 I’m currently learning AI tools for Building My Luna🌙
