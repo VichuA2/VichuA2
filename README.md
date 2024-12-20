@@ -6,7 +6,7 @@
 
 ## 🙂 About Me 
 
-<img align="right" width="425" height="440" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFndnlkeGN6ZDd1dTU4cHZkeHZ5dHh0YXl2MHJ5a3cydTY0bDhmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
+<img align="right" width="420" height="430" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFndnlkeGN6ZDd1dTU4cHZkeHZ5dHh0YXl2MHJ5a3cydTY0bDhmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
 
 - 🧑‍💻 I’m currently learning AI tools for Building My Luna🌙
 - 🤓 III-yr B.Tech Artificial Intelligence and Data Science
@@ -18,8 +18,7 @@
 
 - 😄 Pronouns: Vichu
 - ⚡ Fun fact: I know Malayalam
-- 📝 My Resume :
-   <br>[<img src= "https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>](https://drive.google.com/file/d/10exK0k3inAKu1OyXLv05J16Lcu3lE3qy/view?usp=sharing)
+- 📝 My Resume :[<img src= "https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>](https://drive.google.com/file/d/10exK0k3inAKu1OyXLv05J16Lcu3lE3qy/view?usp=sharing)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
