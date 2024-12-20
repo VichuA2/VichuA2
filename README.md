@@ -18,7 +18,7 @@
 
 - 😄 Pronouns: Vichu
 - ⚡ Fun fact: I know Malayalam
-- 📝 My Resume :[<img src= "https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>](https://drive.google.com/file/d/10exK0k3inAKu1OyXLv05J16Lcu3lE3qy/view?usp=sharing)
+- 📝 My Resume :    [<img src= "https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>](https://drive.google.com/file/d/10exK0k3inAKu1OyXLv05J16Lcu3lE3qy/view?usp=sharing)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
