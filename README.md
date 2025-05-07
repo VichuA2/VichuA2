@@ -55,3 +55,24 @@
 </a>
 
 ![VichuA2's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VichuA2&custom_title=VichuA2's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFD700&area_color=023047&title_color=FFFFFF&area=true)
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/VichuA2/VichuA2/blob/main/github-metrics.svg" alt="Metrics" width="100%"/>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-1500+-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-50000+-brightgreen?style=for-the-badge&logo=codefactor"/>
+</p>
