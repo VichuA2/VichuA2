@@ -62,17 +62,3 @@
 
 
 
-
-
-
-<p align="center">
-  <img src="https://github.com/VichuA2/VichuA2/blob/main/github-metrics.svg" alt="Metrics" width="100%"/>
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1500+-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-50000+-brightgreen?style=for-the-badge&logo=codefactor"/>
-</p>
