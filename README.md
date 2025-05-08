@@ -1,8 +1,10 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
 ![Dino Game](https://user-images.githubusercontent.com/74038190/122894136-03988914-d899-4b4d-b1d9-4eeccf656e44.gif)
 
-# _Hey, I'm Vishnu! Nice to Meet You!_ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="70px">  
+   
+# _Hey, I'm Vishnu! Nice to Meet You!_ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="70px"> 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="250" width="1100">
 
 
@@ -33,6 +35,19 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/github.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 <img height="50" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/arduino.png"/>
 
+##
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400">
+
+
+
+
+
+
+
+
+
+
+
 ## 📈 GitHub Stats
 <br>
 <p align="center">
@@ -56,8 +71,7 @@
 ![VichuA2's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VichuA2&custom_title=VichuA2's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFD700&area_color=023047&title_color=FFFFFF&area=true)
 
 
-
-
-
+##
+<img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />![Leetcode Stats](https://leetcard.vichuboi/vichuboi?theme=dark)
 
 
