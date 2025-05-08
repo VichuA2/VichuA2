@@ -1,8 +1,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
 ![Dino Game](https://user-images.githubusercontent.com/74038190/122894136-03988914-d899-4b4d-b1d9-4eeccf656e44.gif)
-
-   
 # _Hey, I'm Vishnu! Nice to Meet You!_ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="70px"> 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="250" width="1100">
 
@@ -70,7 +67,5 @@
 ![VichuA2's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VichuA2&custom_title=VichuA2's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFD700&area_color=023047&title_color=FFFFFF&area=true)
 
 
-##
-<img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />![Leetcode Stats](https://leetcard.vichuboi/vichuboi?theme=dark)
 
 
