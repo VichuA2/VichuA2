@@ -25,21 +25,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ## 🧑‍💻 I Code In ( "Alter as per my needs")
-<img align ='right' src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"><br>
+<img align ='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="320"><br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png" />
 
 ### 💻 IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/github.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+<img height="50" width="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/github.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 <img height="50" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/arduino.png"/>
 
 ## 📈 GitHub Stats
 
 <br>
-
-<p align="center">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a">
-</p>
-
 <p align="center">
   <a href="https://github.com/VichuA2">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VichuA2&theme=github-dark-blue&border=30363D&background=0D1117" alt="VichuA2's GitHub streak"/>
